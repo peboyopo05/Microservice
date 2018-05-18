@@ -1,0 +1,1 @@
+insert into product (id, name, des, price, amount)values (10001, 'Salt','aaaa',10,10);
